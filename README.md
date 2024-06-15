@@ -72,20 +72,20 @@
 
 ## Tecnologias
 
-![SQL](https://img.shields.io/badge/SQL-Informational?style=flat&logo=sql&logoColor=white&color=30A3DC)
-![Grafana](https://img.shields.io/badge/Grafana-Informational?style=flat&logo=grafana&logoColor=white&color=30A3DC)
-![MySQL](https://img.shields.io/badge/MySQL-Informational?style=flat&logo=mysql&logoColor=white&color=30A3DC)
-![Python](https://img.shields.io/badge/Python-Informational?style=flat&logo=python&logoColor=white&color=30A3DC)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-Informational?style=flat&logo=openai&logoColor=white&color=30A3DC)
-![Oracle DB](https://img.shields.io/badge/Oracle%20DB-Informational?style=flat&logo=oracle&logoColor=white&color=30A3DC)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=30A3DC)
-![Git](https://img.shields.io/badge/Git-Informational?style=flat&logo=git&logoColor=white&color=30A3DC)
-![MongoDB](https://img.shields.io/badge/MongoDB-Informational?style=flat&logo=mongodb&logoColor=white&color=30A3DC)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Informational?style=flat&logo=oracle&logoColor=white&color=30A3DC)
-![NoSQL](https://img.shields.io/badge/NoSQL-Informational?style=flat&logo=nosql&logoColor=white&color=30A3DC)
-![C](https://img.shields.io/badge/C-Informational?style=flat&logo=c&logoColor=white&color=30A3DC)
-![Power BI](https://img.shields.io/badge/Power%20BI-Informational?style=flat&logo=power-bi&logoColor=white&color=30A3DC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Informational?style=flat&logo=postgresql&logoColor=white&color=30A3DC)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300A67C.svg?style=flat&logo=openai&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB-%23F80000.svg?style=flat&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23D73A49.svg?style=flat&logo=oracle&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-%23E94D5F.svg?style=flat&logo=nosql&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=power-bi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 
 
 ## GitHub Stats
