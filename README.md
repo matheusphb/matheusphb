@@ -1,4 +1,5 @@
-# Bem-vindo ao meu perfil do GitHub!
+# Bem-vindo ao meu perfil do GitHub! ![GitHub Cat](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 
 ## Informações do Currículo
 
