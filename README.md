@@ -1,8 +1,12 @@
 # Bem-vindo ao meu perfil do GitHub! <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Cat" width="30"/>
 
-<p style="background-color: black; color: white; padding: 10px;">
-  Bem-vindo ao meu perfil do GitHub! <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Cat" width="30"/>
-</p>
+<style>
+  body {
+    background-color: black;
+    color: white;
+  }
+</style>
+
 
 
 ## Informações do Currículo
