@@ -93,3 +93,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusphb&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) [![GitHub Streak](https://streak-stats.demolab.com?user=matheusphb&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
 
+
+![snake gif](https://github.com/matheusphb/matheusphb/blob/output/github-contribution-grid-snake-dark.svg)
