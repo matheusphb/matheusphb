@@ -3,39 +3,39 @@
 
 ## Informações do Currículo
 
-**Qual é o seu momento profissional?**
+**Momento profissional**
 - Working and searching
 
-**Qual o seu perfil no Linkedin?**
+**Perfil no Linkedin**
 - [LinkedIn](https://www.linkedin.com/in/matheus-costa-05093b254)
 
-**Qual o seu perfil no GitHub?**
+**Perfil no GitHub**
 - [GitHub](https://github.com/matheusphb)
 
 **Telefone de contato**
 - +55 86 98149 5642
 
-**Qual a cidade que você mora?**
+**Cidade**
 - Parnaíba, Piauí
 
-**Que tipo de oferta de emprego você está disposto a considerar?**
+**Tipo de oferta de emprego**
 - CLT
 - Contrato (internacional)
 
-**Qual modalidade de trabalho deseja?**
+**Modalidade de trabalho**
 - Remoto
 
 **Carreira de preferência**
 - Data Analyst
 
-**Quais são as duas principais tecnologias que você domina**
+**Principais tecnologias que você domina**
 - SQL
 - Grafana
 
-**Quanto tempo de experiência profissional em desenvolvimento de software você tem**
+**Experiência profissional em desenvolvimento de software**
 - 1 a 3 anos
 
-**Quais são as outras tecnologias que você domina**
+**Outras tecnologias que você domina**
 - ChatGPT
 - Oracle DB
 - MySQL
@@ -49,7 +49,7 @@
 - Power BI
 - PostgreSQL
 
-**Quais idiomas você fala**
+**idiomas**
 - Português (Brasil): Fluente
 
 ## Formação Acadêmica
