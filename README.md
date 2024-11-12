@@ -61,7 +61,4 @@
 - **Projeto de Exportação e Importação de Dados com Oracle**  
   - **Descrição**: Gerenciou a exportação e importação de grandes volumes de dados (7 TB) e manipulação de arquivos CSV (cerca de 4000), incluindo coletas parciais e procedimentos de otimização para operações complexas.
 
-- **Análise de Riscos para Projeto de Software em Centro de Condicionamento Físico (MAPA)**  
-  - **Descrição**: Participou de uma atividade MAPA para análise e mitigação de riscos em um projeto de software para um centro de condicionamento físico, abordando desafios como resistência à tecnologia e clareza de requisitos.
-
 ---
