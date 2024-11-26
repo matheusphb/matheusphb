@@ -35,7 +35,7 @@
 
 ## Formação Acadêmica
 
-- **Bacharelado em Engenharia de Software**, UniCesumar (Junho 2022 - Julho 2027)
+- **Bacharelado em Engenharia de Software**, UniCesumar (Junho 2022 - Julho 2026)
 
 ---
 
