@@ -33,32 +33,48 @@
 
 ---
 
-## Formação Acadêmica
+### **Formação Acadêmica**  
+**Bacharelado em Engenharia de Software**, UniCesumar (Junho 2022 - Julho 2026)  
 
-- **Bacharelado em Engenharia de Software**, UniCesumar (Junho 2022 - Julho 2026)
-
----
-
-## Experiência Profissional
-
-- **Funcionário de TI, Casa O Toureiro** *(Agosto 2015 - Presente)*
-  - Resolução de problemas técnicos e manutenção de sistemas (Winthor - Totvs) para o grupo O Toureiro.
-  - Criação de relatórios de suporte, análise de dados com SQL e monitoramento de desempenho dos servidores.
-  - Desenvolvimento de soluções tecnológicas para otimizar processos internos do grupo.
-
+### **Experiência Profissional**  
+**Funcionário de TI**, Casa O Toureiro (Agosto 2015 - Presente)  
+- Resolução de problemas técnicos e manutenção de sistemas ERP (WinThor - Totvs).  
+- Criação de relatórios personalizados para suporte e análise de dados com SQL.  
+- Monitoramento do desempenho dos servidores e identificação de gargalos.  
+- Desenvolvimento de soluções tecnológicas para otimizar processos internos.  
 
 ---
 
-## Projetos e Contribuições
+### **Experiência Profissional Detalhada**  
+**Casa O Toureiro (Agosto 2015 - Presente)**  
+- **Separador de Mercadorias (2015-2016):** Organizou e separou mercadorias com precisão, desenvolvendo um entendimento prático dos processos logísticos.  
+- **Conferente de Mercadorias (2016-2018):** Realizou conferências de entradas e saídas, garantindo conformidade com notas fiscais e integridade nos processos.  
+- **Auxiliar de Depósito (2018-2019):** Ofereceu suporte às operações de depósito, consolidando conhecimentos sobre armazenamento e logística interna.  
+- **Encarregado de Abastecimentos (2019-2021):** Gerenciou o reabastecimento de produtos, otimizando níveis de estoque e fluxos operacionais.  
+- **Encarregado da Logística de Devolução (2021-2023):** Coordenou a logística reversa, garantindo eficiência nas devoluções de mercadorias.  
+- **Suporte Técnico (2023-Atual):** Especialista em suporte a sistemas ERP, manutenção de servidores e automação de processos técnicos.  
 
+---
 
-- **Gestão e Configuração de Banco de Dados Oracle**  
-  - **Descrição**: Configurou e gerenciou bancos de dados Oracle em ambiente multitenant (CDB e PDB), incluindo a criação e otimização de índices, rotinas de backup, duplicação e importação de dumps, além de configuração de permissões e usuários.
+### **Atividades Complementares**  
+- Desenvolvimento de **relatórios personalizados em SQL** para análise de dados e KPIs.  
+- Automação de tarefas administrativas por meio de scripts e ferramentas personalizadas.  
+- Monitoramento de servidores e melhorias no desempenho de sistemas.  
+- Colaboração em projetos internos, implementando soluções tecnológicas para otimização de processos.  
 
-- **Automatização de Relatórios de Suporte e Performance**  
-  - **Descrição**: Automatizou relatórios SQL para monitorar e relatar o desempenho dos sistemas do grupo Casa O Toureiro, com análise de vendas, estoque e faturamento. Melhorou a eficiência do suporte ao gerar relatórios detalhados com métricas de tempo e soluções aplicadas.
+---
 
-- **Projeto de Exportação e Importação de Dados com Oracle**  
-  - **Descrição**: Gerenciou a exportação e importação de grandes volumes de dados (7 TB) e manipulação de arquivos CSV (cerca de 4000), incluindo coletas parciais e procedimentos de otimização para operações complexas.
+### **Projetos e Contribuições**  
+**1. Gestão e Configuração de Banco de Dados Oracle**  
+- Configuração e gerenciamento de bancos de dados Oracle em ambiente multitenant (CDB e PDB).  
+- Criação e otimização de índices, rotinas de backup e importação de dumps.  
+
+**2. Automação de Relatórios de Suporte e Performance**  
+- Desenvolvimento de relatórios automatizados em SQL para monitoramento de vendas, estoque e faturamento.  
+- Melhoria da eficiência no suporte, com relatórios detalhados que geram insights estratégicos.  
+
+**3. Projeto de Exportação e Importação de Dados com Oracle**  
+- Gerenciamento de exportação e importação de 7 TB de dados, incluindo manipulação de cerca de 4000 arquivos CSV.  
+- Implementação de coletas parciais e otimização de processos para operações complexas.  
 
 ---
