@@ -2,7 +2,8 @@
 
 ## Tecnologias
 
-[![Tecnologias](https://skillicons.dev/icons?i=aws,gcp,grafana,mysql,python,git,github,mongodb,c,dotnet,docker,eclipse,js,postgres,ai,java,linux)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=aws,gcp,grafana,mysql,python,git,github,mongodb,c,dotnet,docker,eclipse,js,postgres,ai,java,linux)](https://skillicons.dev) 
+---
 [![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusphb)](https://skillicons.dev)
 
 ## GitHub Stats
