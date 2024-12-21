@@ -1,6 +1,8 @@
 ---
 
-# Bem-vindo ao meu perfil do GitHub! [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/matheusphb)
+# Bem-vindo ao meu perfil do GitHub!  <a href="https://github.com/matheusphb"><img src="https://skillicons.dev/icons?i=github" width="30" height="30" alt="Github"></a>  
+
+
 
 ## 👋 Sobre mim  
 Apaixonado por tecnologia, análise de dados e otimização de processos, tenho mais de 8 anos de experiência no setor de TI. Meu foco principal é em sistemas ERP e bancos de dados, onde aplico soluções estratégicas para melhorar a eficiência operacional.  
@@ -9,7 +11,6 @@ Apaixonado por tecnologia, análise de dados e otimização de processos, tenho 
 
 ## 🌟 Tecnologias e Ferramentas  
 [![Tecnologias](https://skillicons.dev/icons?i=aws,gcp,grafana,mysql,python,git,github,mongodb,c,dotnet,docker,eclipse,js,postgres,ai,java,linux)](https://skillicons.dev)  
-
 ---
 
 ## 🔢 Linguagens Mais Usadas  
