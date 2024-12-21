@@ -14,7 +14,7 @@ Apaixonado por tecnologia, análise de dados e otimização de processos, tenho 
 ---
 
 ## 🔢 Linguagens Mais Usadas  
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusphb&layout=compact&theme=radical&card_width=1000)](https://github.com/matheusphb)  
+
 
 ---
 
