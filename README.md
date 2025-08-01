@@ -4,21 +4,21 @@
 
 
 
-## 👋 Sobre mim  
+##  Sobre mim  
 Apaixonado por tecnologia, análise de dados e otimização de processos, tenho mais de 8 anos de experiência no setor de TI. Meu foco principal é em sistemas ERP e bancos de dados, onde aplico soluções estratégicas para melhorar a eficiência operacional.  
 
 ---
 
-## 🌟 Tecnologias e Ferramentas  
+##  Tecnologias e Ferramentas  
 [![Tecnologias](https://skillicons.dev/icons?i=aws,gcp,grafana,mysql,python,git,github,mongodb,c,dotnet,docker,eclipse,js,postgres,ai,java,linux)](https://skillicons.dev)  
 ---
 
-## 🔢 Linguagens Mais Usadas  
+##  Linguagens Mais Usadas  
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusphb&layout=compact&theme=radical&card_width=1000)](https://github.com/matheusphb)  
 
 ---
 
-## 🏆 GitHub Stats  
+##  GitHub Stats  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusphb/matheusphb/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusphb/matheusphb/output/github-contribution-grid-snake.svg">
@@ -27,7 +27,7 @@ Apaixonado por tecnologia, análise de dados e otimização de processos, tenho 
 
 ---
 
-## 📜 Informações Profissionais  
+##  Informações Profissionais  
 
 - **Momento profissional:** Atuando e buscando novas oportunidades.  
 - **LinkedIn:** <a href="https://www.linkedin.com/in/matheus-costa-05093b254"><img src="https://skillicons.dev/icons?i=linkedin" width="24" height="24" alt="LinkedIn"></a>  
@@ -39,7 +39,7 @@ Apaixonado por tecnologia, análise de dados e otimização de processos, tenho 
 
 ---
 
-## 💻 Principais Tecnologias  
+##  Principais Tecnologias  
 
 ### Banco de Dados  
 - **Domínio Avançado:** SQL, Oracle, MySQL  
@@ -53,12 +53,12 @@ Apaixonado por tecnologia, análise de dados e otimização de processos, tenho 
 
 ---
 
-## 🎓 Formação Acadêmica  
+##  Formação Acadêmica  
 - **Bacharelado em Engenharia de Software**, UniCesumar (Junho 2022 - Julho 2026)  
 
 ---
 
-## 💼 Experiência Profissional  
+##  Experiência Profissional  
 
 ### Casa O Toureiro (Agosto 2015 - Presente)  
 #### **Cargos Ocupados:**  
@@ -77,7 +77,7 @@ Apaixonado por tecnologia, análise de dados e otimização de processos, tenho 
 
 ---
 
-## 🚀 Projetos e Contribuições  
+##  Projetos e Contribuições  
 
 ### **1. Gestão e Configuração de Banco de Dados Oracle**  
 - Configuração e gerenciamento de bancos de dados em ambiente multitenant (CDB e PDB).  
@@ -93,7 +93,7 @@ Apaixonado por tecnologia, análise de dados e otimização de processos, tenho 
 
 ---
 
-## 🏅 Conquistas  
+##  Conquistas  
 - Aumento da eficiência de suporte em 30% com automação de relatórios.  
 - Redução de 25% no tempo de processamento em análises de grandes datasets.  
 - Implementação de melhorias que elevaram a confiabilidade do sistema ERP.  
