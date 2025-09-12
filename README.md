@@ -31,7 +31,7 @@ Apaixonado por tecnologia, análise de dados e otimização de processos, tenho 
 
 - **Momento profissional:** Atuando e buscando novas oportunidades.  
 - **LinkedIn:** <a href="https://www.linkedin.com/in/matheus-costa-05093b254"><img src="https://skillicons.dev/icons?i=linkedin" width="24" height="24" alt="LinkedIn"></a>  
-- **Contato:** +55 86 98149 5642  
+- **Contato:** +55 86 99449-1061
 - **Localização:** Parnaíba, Piauí  
 - **Tipo de Oferta:** CLT, Contrato Internacional  
 - **Modalidade:** Remoto  
