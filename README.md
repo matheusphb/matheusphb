@@ -10,10 +10,10 @@ Apaixonado por tecnologia, análise de dados e otimização de processos, tenho 
 ## Minhas Habilidades
 [![Tecnologias](https://skillicons.dev/icons?i=aws,gcp,grafana,mysql,python,git,github,mongodb,c,dotnet,docker,eclipse,js,postgres,ai,java,linux)](https://skillicons.dev)
 
-**Banco de Dados:** SQL, Oracle, MySQL (Domínio Avançado), MongoDB, PostgreSQL, SQL Server, NoSQL, PL/SQL
-**Linguagens de Programação:** Python, C, Java
-**Ferramentas de Visualização e Análise:** Grafana, Power BI
-**Sistemas:** ERP, Linux
+* **Banco de Dados:** SQL, Oracle, MySQL (Domínio Avançado), MongoDB, PostgreSQL, SQL Server, NoSQL, PL/SQL
+* **Linguagens de Programação:** Python, C, Java
+* **Ferramentas de Visualização e Análise:** Grafana, Power BI
+* **Sistemas:** ERP, Linux
 
 ---
 
