@@ -3,7 +3,7 @@
 ---
 
 ## Sobre mim
-Apaixonado por tecnologia, análise de dados e otimização de processos, tenho mais de 8 anos de experiência no setor de TI. Meu foco principal é em sistemas ERP e bancos de dados, onde aplico soluções estratégicas para melhorar a eficiência operacional.
+Apaixonado por tecnologia, análise de dados e otimização de processos, tenho 4 anos de experiência no setor de TI. Meu foco principal é em sistemas ERP e bancos de dados, onde aplico soluções estratégicas para melhorar a eficiência operacional.
 
 ---
 
