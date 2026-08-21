@@ -46,7 +46,7 @@ Especialista em ERP, responsável por manutenção de servidores e automação d
 ---
 
 ## Formação e Contato
-**Bacharelado em Engenharia de Software**, UniCesumar (Junho 2022 - Julho 2026)
+**Bacharelado em Engenharia de Software**, UniCesumar (Concluído em Agosto de 2026)
 
 **Momento profissional:** Atuando e buscando novas oportunidades (CLT, Contrato Internacional, Remoto).
 **Carreira Alvo:** Data Analyst.
